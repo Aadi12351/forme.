@@ -1,0 +1,4 @@
+wearforme.in, www.wearforme.in {
+  encode zstd gzip
+  reverse_proxy store:3000
+}

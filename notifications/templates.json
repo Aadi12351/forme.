@@ -1,0 +1,12 @@
+{
+  "order_confirmation": "Thank you for choosing Forme. Your order {{order_id}} is confirmed. Total: {{total}}. Support: {{support_email}}.",
+  "payment_confirmation": "Payment received for {{order_id}}. Paid: {{total}}. We will update you when your order is dispatched.",
+  "order_dispatch": "Your order {{order_id}} has been dispatched. Courier: {{courier}}. Tracking: {{tracking}}.",
+  "tracking_information": "Your tracking details for {{order_id}}: {{tracking}}. View your private order page for updates.",
+  "delivery_confirmation": "Order {{order_id}} is marked delivered. For eligible return/exchange requests, open your order within 7 days of delivery.",
+  "order_cancellation": "Order {{order_id}} has been cancelled. Any approved payment refund will be handled through the original method where possible.",
+  "return_approval": "Your return request for {{order_id}} was approved. Follow the instructions provided by support before sending your item.",
+  "exchange_approval": "Your exchange request for {{order_id}} was approved, subject to the replacement stock and disclosed return charges.",
+  "refund_confirmation": "Your refund for {{order_id}} has been initiated through the original payment method. Bank processing times can vary.",
+  "abandoned_checkout": "Optional marketing template only: Your Forme bag is waiting. Return to your bag when you are ready. Sent only with appropriate consent and unsubscribe support."
+}

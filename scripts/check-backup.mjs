@@ -1,0 +1,10 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {DatabaseSync} from 'node:sqlite';
+const file=process.argv[2];
+if(!file||!fs.existsSync(file))throw Error('Usage: node scripts/check-backup.mjs /absolute/path/to/backup/store.sqlite');
+const db=new DatabaseSync(path.resolve(file),{readOnly:true});
+const check=db.prepare('PRAGMA integrity_check').get();
+if(check.integrity_check!=='ok')throw Error('Database integrity check failed');
+console.log('Integrity: ok. Products:',db.prepare('SELECT count(*) n FROM products').get().n,'Orders:',db.prepare('SELECT count(*) n FROM orders').get().n);
+db.close();

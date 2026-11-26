@@ -1,0 +1,17 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {DatabaseSync} from 'node:sqlite';
+import {fileURLToPath} from 'node:url';
+const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
+if(fs.existsSync(path.join(root,'.env')))process.loadEnvFile(path.join(root,'.env'));
+const dir=process.env.STORE_DATA_DIR||path.join(root,'data'),source=path.join(dir,'store.sqlite');
+if(!fs.existsSync(source))throw Error('Start the store first so its database exists');
+const dest=path.join(root,'backups','store-'+new Date().toISOString().replace(/[:.]/g,'-'));
+fs.mkdirSync(dest,{recursive:true});
+const db=new DatabaseSync(source);
+db.exec("VACUUM INTO '"+path.join(dest,'store.sqlite').replaceAll("'","''")+"'");
+db.close();
+const categories=fs.existsSync(path.join(dir,'categories.json'))?path.join(dir,'categories.json'):path.join(root,'data/categories.json');if(fs.existsSync(categories))fs.copyFileSync(categories,path.join(dest,'categories.json'));
+fs.cpSync(path.join(root,'uploads'),path.join(dest,'uploads'),{recursive:true});
+fs.writeFileSync(path.join(dest,'manifest.json'),JSON.stringify({created:new Date().toISOString(),database:'store.sqlite',note:'Secrets are excluded. Back up .env separately in an encrypted secret store.'},null,2));
+console.log('Backup completed:',dest);

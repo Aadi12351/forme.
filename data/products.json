@@ -1,0 +1,292 @@
+[
+  {
+    "benefits": [],
+    "steps": [],
+    "faqs": [],
+    "spotlightMedia": "",
+    "detailMedia": "",
+    "media": [
+      {
+        "type": "image",
+        "url": "/uploads/679201e3-be50-48ff-bb59-0f95b6dced23.jpg",
+        "alt": "47e7a0ff8bbec09772de5a193777431a"
+      }
+    ],
+    "fabric": "210 GSM heavyweight cotton (subject to manufacturer confirmation). Designed for a substantial feel, comfortable everyday wear, and a structured oversized drape.",
+    "fit": "Oversized / relaxed fit, dropped shoulders, classic ribbed crew neckline, half sleeves, and straight hem.",
+    "care": "Machine wash cold, inside out.\n\nWash with similar colours.\n\nUse mild detergent.\n\nDo not bleach.\n\nDo not iron directly over the printed artwork.\n\nDry in shade to help preserve colours and print quality.",
+    "story": "POWER IS NOT GIVEN. IT IS TAKEN.\n\nSome follow the rules. Others create their own.\n\nInspired by the commanding presence of Doctor Doom, this graphic T-shirt celebrates ambition, mystery, and unapologetic individuality.\n\nFeaturing an oversized green DOOM graphic, detailed metallic mask, deep emerald hood, and electrifying white accents, the back design delivers a powerful streetwear statement.\n\nA smaller, cinematic throne-inspired graphic on the front adds another layer to the story, creating the perfect balance between minimal styling and bold expression.\n\nAvailable in black, navy blue, and white, the relaxed silhouette pairs effortlessly with cargos, denim, or everyday streetwear essentials.\n\nRULE YOUR WORLD. WEAR YOUR FORM.",
+    "highlights": "Iconic Doctor Doom-inspired artwork\n\nBold emerald-green DOOM typography\n\nDetailed metallic mask and hood illustration\n\nElectric white lightning effects\n\nCinematic throne-inspired chest graphic\n\nStatement back print\n\nOversized drop-shoulder silhouette\n\nAvailable in Black, Navy Blue and White\n\nUnisex streetwear design",
+    "id": "1a38e19d-b6a0-4927-97ef-bb5c0fe4b7f6",
+    "colorHex": "#1a1b1a",
+    "colorGroup": "",
+    "name": "Doctor Doom Graphic Oversized T-Shirt – Black / Navy Blue / White",
+    "category": "marvel",
+    "color": "Black",
+    "price": 500,
+    "image": "/uploads/b378cf60-0ce8-4fa9-9548-b8815604bd8b.png",
+    "description": "Power has a new form. The Doctor Doom Graphic Oversized T-Shirt brings one of Marvel's most iconic villains to life through bold green typography, intricate metallic-mask artwork, and striking lightning effects. Designed for those who embrace individuality, confidence, and fearless streetwear.",
+    "sizes": {
+      "S": 0,
+      "M": 0,
+      "L": 0,
+      "XL": 0,
+      "XXL": 0
+    },
+    "featured": false,
+    "active": true
+  },
+  {
+    "benefits": [],
+    "steps": [],
+    "faqs": [],
+    "spotlightMedia": "",
+    "detailMedia": "",
+    "media": [
+      {
+        "type": "image",
+        "url": "/uploads/024263cd-e808-41e6-a616-345d2fa60040.jpg",
+        "alt": "Rohit Sharma — Exact Mockup, Editable Print"
+      }
+    ],
+    "fabric": "210 GSM heavyweight cotton (subject to manufacturer confirmation). Designed for a substantial feel, comfortable everyday wear, and a structured oversized appearance.",
+    "fit": "Oversized / relaxed fit, dropped shoulders, classic ribbed crew neck, half sleeves, and a straight-cut hem.",
+    "care": "Machine wash cold, inside out.\n\nWash with similar dark colours.\n\nUse mild detergent.\n\nDo not bleach.\n\nDo not iron directly over the graphic print.\n\nDry in shade to help preserve colour and print quality.",
+    "story": "ONE NAME. ONE NUMBER. COUNTLESS MEMORIES.\n\nFrom record-breaking innings to unforgettable championship celebrations, Rohit Sharma has given cricket fans moments worth remembering forever.\n\nThe Hitman 45 Tribute Oversized T-Shirt celebrates his extraordinary journey through a detailed, multi-layered collage featuring memorable innings, iconic celebrations, the Indian jersey, and the legendary No. 45.\n\nThe artwork brings together striking blue and orange tones, black-and-white cricket photography, and standout details including 264 — The Greatest ODI Innings of All Time and I Will Always Bleed Blue.\n\nSet against a deep navy blue base, the graphic creates a bold yet balanced streetwear aesthetic.\n\nDesigned for cricket lovers who carry their passion beyond the stadium, this piece is more than an everyday T-shirt. It's a tribute to the memories, milestones, and emotions that define a generation of Indian cricket.",
+    "highlights": "Rohit Sharma tribute collage artwork\n\nIconic No. 45 jersey details\n\nRecord-breaking 264-run innings tribute\n\nIndian cricket championship celebrations\n\nBlue, orange and monochrome graphic composition\n\nDeep navy blue colour\n\nCentered graphic placement\n\nOversized drop-shoulder silhouette\n\nUnisex streetwear styling",
+    "id": "c40837c8-ed46-4301-ab30-ffa162a43a95",
+    "name": "Rohit Sharma Hitman 45 Tribute Oversized T-Shirt – Navy Blue",
+    "category": "sports",
+    "color": "Navy Blue",
+    "price": 499,
+    "image": "/uploads/1a23c194-6164-4ef6-bcdf-419f3ef113f6.png",
+    "description": "Celebrate the legacy of Hitman 45 with the Rohit Sharma Tribute Oversized T-Shirt. Featuring a striking collage of iconic cricketing moments, championship celebrations, and his legendary No. 45 jersey, this navy blue statement piece brings together cricket passion and modern streetwear.",
+    "sizes": {
+      "S": 0,
+      "M": 0,
+      "L": 3,
+      "XL": 2,
+      "XXL": 0
+    },
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "plain-black",
+    "name": "Black Essential Tee",
+    "category": "plain",
+    "color": "Black",
+    "price": 350,
+    "image": "/uploads/ce007e02-e8b7-4779-8796-ead755db640b.jpg",
+    "description": "Premium 210 GSM cotton. Relaxed drop-shoulder silhouette.",
+    "sizes": {
+      "S": 0,
+      "M": 0,
+      "L": 3,
+      "XL": 2,
+      "XXL": 1
+    },
+    "featured": true,
+    "active": true
+  },
+  {
+    "id": "plain-white",
+    "name": "White Essential Tee",
+    "category": "plain",
+    "color": "White",
+    "price": 350,
+    "image": "/uploads/ffd91fde-7f4c-43c2-b6b9-6b0721903633.jpg",
+    "description": "Premium 210 GSM cotton. Relaxed drop-shoulder silhouette.",
+    "sizes": {
+      "S": 0,
+      "M": 4,
+      "L": 2,
+      "XL": 2,
+      "XXL": 0
+    },
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "plain-brown",
+    "name": "Brown Essential Tee",
+    "category": "plain",
+    "color": "Brown",
+    "price": 350,
+    "image": "/uploads/8a0c56bf-7365-413e-97ae-0c0efb8f28da.jpg",
+    "description": "Premium 210 GSM cotton. Relaxed drop-shoulder silhouette.",
+    "sizes": {
+      "S": 0,
+      "M": 4,
+      "L": 2,
+      "XL": 2,
+      "XXL": 0
+    },
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "plain-navy",
+    "name": "Navy Essential Tee",
+    "category": "plain",
+    "color": "Navy",
+    "price": 350,
+    "image": "/uploads/d7c82db3-f84d-4b6c-8e5d-d64486fc3602.jpg",
+    "description": "Premium 210 GSM cotton. Relaxed drop-shoulder silhouette.",
+    "sizes": {
+      "S": 0,
+      "M": 0,
+      "L": 3,
+      "XL": 2,
+      "XXL": 0
+    },
+    "featured": false,
+    "active": true
+  },
+  {
+    "benefits": [],
+    "steps": [],
+    "faqs": [],
+    "spotlightMedia": "",
+    "detailMedia": "",
+    "media": [],
+    "fabric": "",
+    "fit": "",
+    "care": "",
+    "story": "",
+    "highlights": "",
+    "id": "plain-green",
+    "name": "Green Essential Tee",
+    "category": "plain",
+    "color": "Green",
+    "price": 350,
+    "image": "/uploads/862861ff-9cc2-4232-b633-651840e1b6fb.png",
+    "description": "Premium 210 GSM cotton. Relaxed drop-shoulder silhouette.",
+    "sizes": {
+      "S": 1,
+      "M": 2,
+      "L": 2,
+      "XL": 3,
+      "XXL": 0
+    },
+    "featured": false,
+    "active": true
+  },
+  {
+    "id": "plain-red",
+    "name": "Red Essential Tee",
+    "category": "plain",
+    "color": "Red",
+    "price": 350,
+    "image": "/uploads/460e9b45-c5ac-4ce5-bdbe-c8eb55f2d07a.jpg",
+    "description": "Premium 210 GSM cotton. Relaxed drop-shoulder silhouette.",
+    "sizes": {
+      "S": 1,
+      "M": 2,
+      "L": 2,
+      "XL": 2,
+      "XXL": 0
+    },
+    "featured": false,
+    "active": true
+  },
+  {
+    "benefits": [],
+    "steps": [],
+    "faqs": [],
+    "spotlightMedia": "",
+    "detailMedia": "",
+    "media": [],
+    "fabric": "",
+    "fit": "",
+    "care": "",
+    "story": "",
+    "highlights": "",
+    "id": "plain-beige",
+    "name": "Beige Essential Tee",
+    "category": "plain",
+    "color": "Beige",
+    "price": 350,
+    "image": "/uploads/5df14686-d272-42e8-8e6c-59edf1de8051.png",
+    "description": "Premium 210 GSM cotton. Relaxed drop-shoulder silhouette.",
+    "sizes": {
+      "S": 0,
+      "M": 1,
+      "L": 0,
+      "XL": 0,
+      "XXL": 0
+    },
+    "featured": false,
+    "active": true
+  },
+  {
+    "benefits": [],
+    "steps": [],
+    "faqs": [],
+    "spotlightMedia": "",
+    "detailMedia": "",
+    "media": [
+      {
+        "type": "image",
+        "url": "/uploads/f18ecdd7-6516-4dc4-b17b-5b7f448a5d5a.jpg",
+        "alt": "Venom_back"
+      }
+    ],
+    "fabric": "",
+    "fit": "",
+    "care": "",
+    "story": "",
+    "highlights": "",
+    "id": "venom-black",
+    "name": "VENOMOUS / Black",
+    "category": "printed",
+    "color": "Black",
+    "price": 499,
+    "image": "/uploads/3520987c-6181-4cf2-9982-35f837eda562.png",
+    "description": "Our graphic series. Premium 210 GSM cotton with a relaxed drop-shoulder fit.",
+    "sizes": {
+      "S": 0,
+      "M": 0,
+      "L": 3,
+      "XL": 2,
+      "XXL": 1
+    },
+    "featured": true,
+    "active": true
+  },
+  {
+    "benefits": [],
+    "steps": [],
+    "faqs": [],
+    "spotlightMedia": "/uploads/df9bc594-d9a3-4c4b-9d28-f224c5b21f59.png",
+    "detailMedia": "/uploads/df9bc594-d9a3-4c4b-9d28-f224c5b21f59.png",
+    "media": [
+      {
+        "type": "image",
+        "url": "/uploads/3825300d-8ecc-4a79-a3bb-ec3bcc56cbd3.png",
+        "alt": "Venomous Snake Graphic T-Shirt"
+      }
+    ],
+    "fabric": "",
+    "fit": "",
+    "care": "Machine wash cold, inside out.\nWash with similar colours.\nDo not bleach.\nAvoid ironing directly over the print.\nDry in shade to help preserve the graphic.",
+    "story": "Make a statement without saying a word. The Venomous Oversized Graphic T-Shirt brings together fearless design and contemporary streetwear style.\n\nFeaturing bold red VENOMOUS typography accented by a detailed black snake illustration, this T-shirt creates a powerful visual contrast against its crisp white base.\n\nIts relaxed, oversized silhouette, dropped shoulders, and classic crew neckline deliver an effortlessly cool look, making it ideal for casual outings and everyday fashion.\n\nPair it with baggy jeans, cargos, or relaxed-fit trousers to complete your streetwear look.",
+    "highlights": "Bold red VENOMOUS typography\nDetailed black serpent graphic\nContemporary oversized silhouette\nRelaxed drop-shoulder design\nClassic crew neckline\nUnisex streetwear aesthetic",
+    "id": "venom-white",
+    "name": "Venomous Snake Graphic Oversized T-Shirt – White",
+    "category": "printed",
+    "color": "White",
+    "price": 499,
+    "image": "/uploads/df9bc594-d9a3-4c4b-9d28-f224c5b21f59.png",
+    "description": "Unleash your bold side with the Venomous Oversized Graphic T-Shirt. Featuring striking red VENOMOUS typography intertwined with a black serpent graphic, this statement piece combines edgy streetwear aesthetics with a clean, minimalist white base.",
+    "sizes": {
+      "S": 0,
+      "M": 4,
+      "L": 2,
+      "XL": 2,
+      "XXL": 0
+    },
+    "featured": false,
+    "active": true
+  }
+]

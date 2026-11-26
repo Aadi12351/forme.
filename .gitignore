@@ -1,0 +1,9 @@
+node_modules/
+.env
+data/*.sqlite*
+data/local-secrets*
+backups/
+*.zip
+
+dist-launch/
+uploads/

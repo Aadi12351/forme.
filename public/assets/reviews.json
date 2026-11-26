@@ -1,0 +1,25 @@
+{
+  "sample": true,
+  "reviews": [
+    {
+      "title": "Made for the everyday.",
+      "quote": "The relaxed fit makes this an easy everyday pick. Simple to style, easy to wear.",
+      "piece": "Cotton essentials"
+    },
+    {
+      "title": "A little more character.",
+      "quote": "A graphic tee that brings the whole outfit together. This is where my own style comes through.",
+      "piece": "Graphic series"
+    },
+    {
+      "title": "Comfort comes first.",
+      "quote": "Room to move, a clean silhouette, and a comfortable feel. Exactly the kind of staple I reach for.",
+      "piece": "Everyday favourites"
+    },
+    {
+      "title": "Wear it your way.",
+      "quote": "An understated piece with plenty of personality. I can keep it simple or make it my own.",
+      "piece": "The FORME edit"
+    }
+  ]
+}
